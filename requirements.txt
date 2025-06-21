@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+langgraph
+python-dotenv
+beautifulsoup4
+requests
+lxml
+pypdf
+typing_extensions
