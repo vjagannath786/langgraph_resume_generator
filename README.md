@@ -16,7 +16,8 @@ The system is modeled as a LangGraph state machine with multiple expert agents:
 
 ## 🔁 Flowchart
 
-![Flowchart] 
+![Flowchart] ![ChatGPT Image Jun 21, 2025, 06_08_46 PM](https://github.com/user-attachments/assets/1101efa2-ff71-4af4-a061-4695aab5b278)
+
 
 ---
 
