@@ -10,7 +10,7 @@ def extract_text_from_pdf(pdf_path):
 
     return text
 
-key = "AIzaSyDeXPq3SbgsUOCNfGcPMNiDjM2ejUN82fc"
+
 
 if __name__ == "__main__":
     pdf_path = "M.pdf"  # Replace with your PDF file path
